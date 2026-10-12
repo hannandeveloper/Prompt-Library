@@ -9,8 +9,8 @@ Do not use any pic of a person . Make sure to use the LinkedIn’s banner size 1
 If you have any references you can combine both prompts
 
 ``` bash
-With the pdf I also uploaded a few design reference. Analyze those design and then use the most insteresting part in the banner.
-Do not copy the whole design.
+With the pdf I also uploaded a few design reference. Analyze those design and then use the most insteresting part in
+the banner. Do not copy the whole design.
 ```
 
 If you have your own color then combine this also
