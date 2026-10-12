@@ -16,3 +16,7 @@ If you have your own color then combine this also
 ``` bash
     {color 1} and {color 2} . Use only these color i provided and if necessary you are allow to use white or black for text but if necessary.
 ```
+
+### Instruction 
+
+Go to your LinkedIn profile on a desktop browser, click the Resources (or More) button in your intro section, and select Save to Pdf
