@@ -1,2 +1,2 @@
 # Prompt-Library
-Library of reuseable prompts
+Library of reuseable prompts for free
